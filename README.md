@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋 This is HackerRouter here.
+
+My first language is Chinese, just so you guys know.
+
+I'm extremely busy with my education now, so I have to give up some of my hobbies, I guess. D:
+
+These are what you might know about me:
+----
+
+- The creator and the owner of Boundless Creative Pursuit(aka BCP, a technical Minecraft server).
+- A amateur game translator.
+- A amateur video translator.
+- A Unity 3D learner.
+- ~~A megalomaniac.~~
+- ~~A Redstone-tech lover.~~(Well, I **USED TO BE** a redstone-tech lover)
+
+
 
 <!--
 **HackerRouter/HackerRouter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ...
+------
+
+- Learning.(I mean, busy with my education)
+- Learning Unity 3D(I have lots of good ideas on making different games!)
+- Learning C#.(One of the best languages!)
