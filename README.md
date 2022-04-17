@@ -14,6 +14,13 @@ These are what you might know about me:
 - ~~A megalomaniac.~~
 - ~~A Redstone-tech lover.~~(Well, I **USED TO BE** a redstone-tech lover)
 
+⚡These are what you may not know about me:
+----
+
+- ~~A megalomaniac.~~
+- ~~Has a propensity for violence.~~
+- **USED TO** suffer from depression.
+- Suffering from "social phobia".
 
 
 <!--
@@ -35,5 +42,6 @@ Here are some ideas to get you started:
 ------
 
 - Learning.(I mean, busy with my education)
+- Trying to be a **PERFECT** good person.
 - Learning Unity 3D(I have lots of good ideas on making different games!)
 - Learning C#.(One of the best languages!)
