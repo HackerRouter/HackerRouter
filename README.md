@@ -4,6 +4,18 @@ My first language is Chinese, just so you guys know.
 
 I'm extremely busy with my education now, so I have to give up some of my hobbies, I guess. D:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerrouter&theme=highcontrast&show_icons=true)
+
+![HackerRouter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerrouter&theme=highcontrast&show_icons=true)
+
+😄 Pronouns: 
+He/Him
+------
+
+📫 How to reach me: 
+[Click Here----->My Bilibili space](https://space.bilibili.com/335688294)
+------
+
 These are what you might know about me:
 ----
 
@@ -38,6 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 🔭 I’m currently working on ...
 ------
 
@@ -45,3 +58,11 @@ Here are some ideas to get you started:
 - Trying to be a **PERFECT** good person.
 - Learning Unity 3D(I have lots of good ideas on making different games!)
 - Learning C#.(One of the best languages!)
+
+
+🤔 I’m looking for help with ...
+------
+
+- Some problems about learning.
+- Translating a game called [Buddy Simulator 1984](https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/), we've only got 3 people in our localization team.
+- Some mental problems. Honestly I just can't admit that I'm not so perfect. I don't want to be an antisocial guy. I don't know how to stop thinking about some antisocial ideas.
