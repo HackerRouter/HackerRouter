@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 
 - Some problems about learning.
 - Translating a game called [Buddy Simulator 1984](https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/), we've only got 3 people in our localization team.
-- Some mental problems. Honestly I just can't admit that I'm not so perfect. I don't want to be an antisocial guy. I don't know how to stop thinking about some antisocial ideas.
+- Some psychological problems. Honestly I just can't admit that I'm not so perfect. I don't want to be an antisocial guy. I don't know how to stop thinking about some violent things.
