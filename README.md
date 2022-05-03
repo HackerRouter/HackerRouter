@@ -23,8 +23,9 @@ These are what you might know about me:
 - A amateur game translator.
 - A amateur video translator.
 - A Unity 3D learner.
+- Someone who quite loves gags from Crows Crows Crows.
 - ~~A megalomaniac.~~
-- ~~A Redstone-tech lover.~~(Well, I **USED TO BE** a redstone-tech lover)
+- ~~A Redstone-tech lover.~~(Well, I **USED TO BE** a Redstone-tech lover)
 
 ⚡These are what you may not know about me:
 ----
@@ -33,6 +34,8 @@ These are what you might know about me:
 - ~~Has a propensity for violence.~~
 - **USED TO** suffer from depression.
 - Suffering from "social phobia".
+- Can only write poems when I feel quite emotional.
+- I stan for Eminem! (Whelp, not a typical stan I suppose)
 
 
 <!--
@@ -63,6 +66,6 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 ------
 
-- Some problems about learning.
+- Some problems with learning.
 - Translating a game called [Buddy Simulator 1984](https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/), we've only got 3 people in our localization team.
-- Some psychological problems. Honestly I just can't admit that I'm not so perfect. I don't want to be an antisocial guy. I don't know how to stop thinking about some violent things.
+- Some psychological problems. Honestly, I just can't admit that I'm not so perfect. I don't want to be an antisocial guy. I don't know how to stop thinking about some violent things. Damn it.
