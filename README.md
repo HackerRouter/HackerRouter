@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - Learning.(I mean, busy with my education)
 - Trying to be a **PERFECT** good person.
 - Learning Unity 3D(I have lots of good ideas on making different games!)
-- Learning C#.(One of the best languages!)
+- Learning C#.(One of the best lang... No, the best languages must be **Lisp**!)
 
 
 🤔 I’m looking for help with ...
