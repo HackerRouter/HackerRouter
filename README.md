@@ -32,7 +32,7 @@ These are what you might know about me:
 
 - ~~A megalomaniac.~~
 - ~~Has a propensity for violence.~~
-- **USED TO** suffer from depression.
+- **AM** suffering from depression.
 - Suffering from "social phobia".
 - Can only write poems when I feel quite emotional.
 - I stan for Eminem! (Whelp, not a typical stan I suppose)
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 
 - Some problems with learning.
 - Translating a game called [Buddy Simulator 1984](https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/), we've only got 3 people in our localization team.
-- Some psychological problems. Honestly, I just can't admit that I'm not so perfect. I don't want to be an antisocial guy. I don't know how to stop thinking about some violent things. Damn it.
+- Some psychological problems. I'm so damn tired these days.
