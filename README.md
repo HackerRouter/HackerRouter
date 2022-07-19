@@ -1,5 +1,7 @@
 ### Hi there 👋 This is HackerRouter here.
 
+**English** | [中文](https://github.com/Fallen-Breath/MCDReforged/blob/main/README_cn.md)
+
 My first language is Chinese, just so you guys know.
 
 I'm extremely busy with my education now, so I have to give up some of my hobbies, I guess. D:
