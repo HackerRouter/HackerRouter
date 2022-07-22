@@ -1,6 +1,6 @@
 ### Hi there 👋 This is HackerRouter here.
 
-**English** | [中文](https://github.com/Fallen-Breath/MCDReforged/blob/main/README_cn.md)
+**English** | [中文](https://github.com/HackerRouter/HackerRouter/blob/main/README_cn.md)
 
 My first language is Chinese, just so you guys know.
 
