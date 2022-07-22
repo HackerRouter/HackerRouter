@@ -1,10 +1,10 @@
 ### 你好哇 👋 这里是HackerRouter.
 
-[English](https://github.com/Fallen-Breath/MCDReforged/blob/main/README.md) | **中文**
+[English](https://github.com/HackerRouter/HackerRouter/blob/main/README.md) | **中文**
 
-只当是给你们提个醒，我的母语是中文。
+只当是给你们提个醒，我的母语是中文。（难道会有老外看中文版的个人简介？）
 
-现在我是真的学业繁忙， 这意味着我得放弃些爱好。 D:
+现在我是真的学业繁忙， 所以我得放弃些业余爱好。 D:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerrouter&theme=highcontrast&show_icons=true)
 
@@ -18,23 +18,23 @@ Ta
 点击此处----->[我的Bilibili空间](https://space.bilibili.com/335688294)
 ------
 
-👯你可能了解我的内容:
+👯那些你可能了解我的内容:
 ----
 
-- The creator and the owner of Boundless Creative Pursuit Studio(aka BCP).
-- A amateur game translator.
-- A amateur video translator.
-- A Unity 3D learner.
-- Someone who quite loves gags from Crows Crows Crows.
-- ~~A Redstone-tech lover.~~(Well, I **USED TO BE** a Redstone-tech lover)
+- Boundless Creative Pursuit Studio的创始人与室长(也被称为BCP).
+- 业余游戏翻译人。
+- 业余视频翻译人。
+- Unity 3D学习者。
+- 一个挺喜欢Crows Crows Crows的幽默的人.
+- ~~一名红石科技爱好者.~~(好吧， 我**曾经是**一名红石科技爱好者)
 
-⚡These are what you may not know about me:
+⚡那些你可能不了解我的内容:
 ----
 
-- I'm suffering from depression at present. Welp, it's getting worse, I guess.
-- I'm Suffering from "social phobia".
-- I can only write poems when I feel quite emotional.
-- I stan for Eminem! (Whelp, not a typical stan I suppose)
+- 现阶段本人仍被抑郁所困扰. 害, 我只能说目前还没有好转。
+- "社交恐惧症"
+- 本人情绪上头时才会写诗，英文的。
+- 我是Eminem的Stan! (不过不是那种狂热粉，我个人只是欣赏他的为人和歌词创作)
 
 
 <!--
@@ -53,18 +53,18 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working on ...
+🔭 我正在...
 ------
 
-- Learning.(I mean, I'm busy with my education)
-- Trying to be a **BETTER** person.
-- Learning Unity 3D(I have loads of good ideas on making different games!)
-- Learning C#.(One of the best lang... No, the best language must be **Lisp**!)
+- 搞学习.(好吧，我学业确实有点繁忙)
+- 试图成为一个**更好**的人。
+- 钻研Unity 3D(我有很多制作不同游戏的想法!)
+- 学习C#.(最好的语言之... 不，最好的语言当然是**Lisp**!)
 
 
-🤔 I’m looking for help with ...
+🤔 那些我有点力不从心需要帮助的事情...
 ------
 
-- Getting rid of laziness and procrastination which were actually caused by depression.
-- Translating a game called [Buddy Simulator 1984](https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/), we've only got 3 people in our localization team.
-- Some psychological problems. I'm so damn tired these days.
+- 摆脱实际上是由抑郁症带来的怠惰与拖延。
+- 汉化[Buddy Simulator 1984](https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/)这个游戏，我们本地化团队只有3个人。
+- 一些心理问题。这些天来我都感觉贼累。
