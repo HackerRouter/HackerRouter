@@ -1,4 +1,4 @@
-## Hi! This is HackerRouter!
+## Hi! This is HackerRouter ![](https://s.namemc.com/2d/skin/face.png?id=6596740550e36496&scale=4)! A technical Minecraft player.
 
 ### I’m currently working on:
 1. Finding technical features on Minecraft, such as more update suppression methods.
@@ -17,12 +17,12 @@ Check [My Bilibili Page](https://space.bilibili.com/335688294).
 ### I’m currently learning things about:
 1. Minecraft.
 2. Computer Engineering.
-3. Algorithms
-4. Artificial intelligence and machine learning。
+3. Algorithms.
+4. Artificial intelligence and machine learning.
 
 ---
 
-### How to reach me:
+### So, How to reach me:
 You can search me at almost every technical Minecraft discord server.
 
 Feel free to DM me if you want to ask about smth. :)
