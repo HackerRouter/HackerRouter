@@ -1,6 +1,10 @@
 ## Hi! This is HackerRouter ![](https://s.namemc.com/2d/skin/face.png?id=6596740550e36496&scale=4)! 
 
-I am one of key players in Chinese technical Minecraft community, and currently studying in university.
+I am one of key players in Chinese technical Minecraft community, and currently **busy** with studying IRL.
+
+Yeah, I know some projects have been on hold for quite a while.
+
+You have my word that I will NOT get back to them for at least one year.
 
 ---
 
@@ -20,13 +24,11 @@ I am one of key players in Chinese technical Minecraft community, and currently 
 
 1. Everything except computer-related stuff.
    
-2. Computer Engineering.
+2. Algorithms.
    
-3. Algorithms.
+3. Artificial intelligence and machine learning.
    
-4. Artificial intelligence and machine learning.
-   
-5. Minecraft.
+4. Minecraft.
 
 ---
 
@@ -45,6 +47,7 @@ Feel free to DM me if you want to ask about smth. :)
 ---
 
 ### Fun fact:
+
 I'm not an OIer/ACMer/CTFer/RMer.
 
 *A very secret website: blog.nothr.xyz*
