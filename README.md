@@ -55,5 +55,3 @@ Feel free to DM me if you want to ask about smth. :)
 ### Fun fact:
 
 I'm not an OIer/ACMer/CTFer/RMer.
-
-*A very secret website: blog.nothr.xyz*
