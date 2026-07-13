@@ -6,7 +6,13 @@ Yeah, I know some projects have been on hold for quite a while.
 
 You have my word that I will NOT get back to them for at least one year.
 
----
+------
+
+### If you would like to contribute to **[Schematica-Plus](https://github.com/HackerRouter/Schematica-Plus)**, please **submit your pull request**.
+
+### Also, I'm looking for anyone who can **take over** this project. Please contact me if you're interested.
+
+------
 
 ### I'm currently working on:
 
